@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM httpd
 MAINTAINER name ariveka
 LABEL this is my first dockerfile
 EXPOSE 80
